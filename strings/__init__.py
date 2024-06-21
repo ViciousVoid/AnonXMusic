@@ -3,7 +3,7 @@ from typing import List
 
 import yaml
 
-languages = {}
+languages = {
 languages_present = {}
 
 
