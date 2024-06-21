@@ -13,7 +13,7 @@ class Anony(Client):
             name="vicivo",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
-            bot_token=config.7283326973:AAGU5vqzvx5rq3ThyR1TzKjSPkbWK-o8x9c,
+            bot_token=config.BOT_TOKEN,
             in_memory=True,
             parse_mode=ParseMode.HTML,
             max_concurrent_transmissions=7,
